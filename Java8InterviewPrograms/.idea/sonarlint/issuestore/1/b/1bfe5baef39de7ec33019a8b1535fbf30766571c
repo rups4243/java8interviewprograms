@@ -1,0 +1,9 @@
+
+r
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(òã¤îûÿÿÿÿ8¨†ãžì2
+r
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(µøûÿÿÿÿ8©†ãžì2
+G	java:S106"+Replace this use of System.out by a logger.(°‹… 8»†ãžì2
+L	java:S106"+Replace this use of System.out by a logger.(¿žè’ùÿÿÿÿ8¾†ãžì2
+`
+java:S1128">Remove this unused import 'java.util.function.BinaryOperator'.(Žžº÷ùÿÿÿÿ8¿†ãžì2

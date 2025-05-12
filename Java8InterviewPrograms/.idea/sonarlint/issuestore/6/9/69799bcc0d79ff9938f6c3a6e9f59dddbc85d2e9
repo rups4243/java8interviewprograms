@@ -1,0 +1,5 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(ç’¤™8«—ì2
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ÉÅñ8í°¤ì2
+L	java:S106"+Replace this use of System.out by a logger.(¡¼ï´şÿÿÿÿ8êÿ¥ì2
